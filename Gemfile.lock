@@ -390,7 +390,7 @@ DEPENDENCIES
   solid_queue
   sqlite3 (>= 2.1)
   stimulus-rails
-  tailwindcss-rails (~> 4.3)
+  tailwindcss-rails
   thruster
   turbo-rails
   tzinfo-data
